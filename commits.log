@@ -1,0 +1,98 @@
+commit 661082a7ced023b0f7b04411a8e156b1c64abcb6
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 31 13:21:45 2022 -0600
+
+    Agregando 2 parrafos
+
+commit 35947ec5a25adc93885320701e82a4aacf5dc364
+Merge: 2e285ff c1087d3
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 31 13:19:14 2022 -0600
+
+    AResolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 2e285ff812e8233b0916e9f193b0b0bf3386675c
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 17 10:54:25 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c1087d3ca3155a9bf7609e674b74b6ef80178b57
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 17 10:54:25 2022 -0500
+
+    Agregnado las estaciones del año
+
+commit 598140412ea8beb2b0ba71e58f66e862e5a8fca5
+Merge: 89a171f e4cf400
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 17 09:38:09 2022 -0500
+
+    Merge branch 'html'
+
+commit e4cf400e1917a4e79a004f0db4d1771352addefa
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 17 09:37:23 2022 -0500
+
+    Agregando index.js al indes.html
+
+commit 89a171f821ca09392dbbf1a6f6622d380fc2bcf2
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 17 09:35:13 2022 -0500
+
+    Agregando style.css al indes.html
+
+commit 9c29b731973d7bb980d9d14c30d71b1181a504c6
+Merge: 0f9eca5 4bb1705
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Mon Oct 17 08:54:34 2022 -0500
+
+    Merge branch 'js'
+
+commit 4bb17059672e72253d9883445cd5a4625b3f0111
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 18:39:09 2022 -0500
+
+    Crenado index.js
+
+commit 0f9eca5c9f79a2f08ccdd2f737434b97783f2075
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 17:45:37 2022 -0500
+
+    Creando style.css
+
+commit b28e7bc62592eb34de41eed34ceca3b1ae0c3ede
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 17:41:08 2022 -0500
+
+    Creando index.html
+
+commit 43159f5b51a7e18d786eb5a4d8ec9ee8f9884aef
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 17:00:12 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 1ffce1985372685806881c54dd85d2f737782a6b
+Author: David080198 <85000916+David080198@users.noreply.github.com>
+Date:   Sun Oct 16 14:49:56 2022 -0500
+
+    Creando Licencia del Repositorio
+
+commit 4d5870d55758c9215d35a3d809166032345ae790
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 14:41:37 2022 -0500
+
+    Agregando mas contenido al README
+
+commit 16a7cd5dd1f7bc8ab568b49b384fc7debf743af7
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 13:28:52 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 897a542f84f9712ae1af4c086a211bdd0efaadd0
+Author: David Soto Osorio <davidsotoesime@outlook.com>
+Date:   Sun Oct 16 13:07:12 2022 -0500
+
+    Primer commit
